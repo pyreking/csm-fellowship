@@ -2,6 +2,10 @@
 
 This repository documents the research work that I did for my CSM Undergraduate Research Fellowship. The goal of this project was to improve the performance of [Faial](https://gitlab.com/umb-svl/faial) by optimizing [Z3 logic selection](https://microsoft.github.io/z3guide/docs/logic/intro/).
 
+![Student Success Showcase poster](https://i.imgur.com/40gY25X.png)
+
+Fig 1. Scientific poster presented at the Student Success Showcase.
+
 ## User Manual
 
 1. Install Faial from the [project repositority](https://gitlab.com/umb-svl/faial).
